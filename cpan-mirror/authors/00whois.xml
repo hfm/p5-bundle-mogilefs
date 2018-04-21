@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cpan-whois>
   <cpanid>
+    <id>BINGOS</id>
+    <type>author</type>
+    <has_cpandir>1</has_cpandir>
+  </cpanid>
+  <cpanid>
     <id>BRADFITZ</id>
     <type>author</type>
     <has_cpandir>1</has_cpandir>
@@ -142,11 +147,6 @@
   </cpanid>
   <cpanid>
     <id>MLEHMANN</id>
-    <type>author</type>
-    <has_cpandir>1</has_cpandir>
-  </cpanid>
-  <cpanid>
-    <id>MSCHWERN</id>
     <type>author</type>
     <has_cpandir>1</has_cpandir>
   </cpanid>
